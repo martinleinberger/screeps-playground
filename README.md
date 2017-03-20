@@ -1,0 +1,1 @@
+Playground for Screeps... Original source for most of the code is https://github.com/tomekbielaszewski/screeps
